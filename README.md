@@ -15,7 +15,7 @@ I am a passionate software developer with expertise in various programming langu
 
 ## Education
 
-    Bachelor of Computer Application - XYZ University (2015-2019)
+    Bachelor of Computer Application - RTU University (2014-2017)
     Relevant coursework: Algorithms, Data Structures, Database Systems
 
 ## Contact
