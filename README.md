@@ -13,6 +13,10 @@ I am a passionate software developer with expertise in various programming langu
     Web development: HTML, CSS, JavaScript, React, Node.js, Express.js
     Databases: MySQL, MongoDB
 
+## Npm package i'm working on
+
+    https://www.npmjs.com/package/ds-nodejs-validation
+
 ## Education
 
     Bachelor of Computer Application - RTU University (2014-2017)
